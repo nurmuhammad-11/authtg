@@ -1,0 +1,7 @@
+[
+  "app/tests.py::TelegramApiTestCase::test_create_user_invalid_data",
+  "app/tests.py::TelegramApiTestCase::test_create_user_via_telegram_api",
+  "app/tests.py::TelegramApiTestCase::test_get_all_users",
+  "app/tests.py::TelegramApiTestCase::test_get_non_existent_user",
+  "app/tests.py::TelegramApiTestCase::test_get_specific_user"
+]
